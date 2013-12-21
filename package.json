@@ -1,0 +1,28 @@
+{
+  "name": "drainer-parallel",
+  "version": "0.1.0",
+  "description": "Queue and drain an array of functions in parallel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottcorgan/drainer-parallel.git"
+  },
+  "keywords": [
+    "drainer",
+    "async",
+    "parallel",
+    "queue"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottcorgan/drainer-parallel/issues"
+  },
+  "devDependencies": {
+    "tape": "~2.3.2",
+    "sinon": "~1.7.3"
+  }
+}
